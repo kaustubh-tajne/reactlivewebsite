@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav_bg {
+  background-color: rgb(255, 255, 255);
+}
+
+.menu_active {
+  border: 2px solid red;
+}
+
+.header-img {
+  width: 50%;
+  text-align: right;
+}
+
+.animated {
+  width: 50%;
+}
+
+.cardImg {
+  height: 12rem;
+}
+
+footer {
+  background-color: black !important;
+  color: #fff !important; 
+  font-size: 30px;
+  position: relative;
+  margin-top: 10px;
+}
