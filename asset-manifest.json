@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactlivewebsite/static/css/main.b4b32df2.css",
+    "main.js": "/reactlivewebsite/static/js/main.c5d4be97.js",
+    "static/js/787.d0a8d074.chunk.js": "/reactlivewebsite/static/js/787.d0a8d074.chunk.js",
+    "static/media/dm2.jpeg": "/reactlivewebsite/static/media/dm2.5a3854ec167b6f1853a9.jpeg",
+    "static/media/LD.jpg": "/reactlivewebsite/static/media/LD.15acb824bff477d61d20.jpg",
+    "static/media/bg.jpg": "/reactlivewebsite/static/media/bg.5cf25859ba1e2237f666.jpg",
+    "static/media/image4.jpg": "/reactlivewebsite/static/media/image4.ca45671a04b0de218f72.jpg",
+    "static/media/banner.jpg": "/reactlivewebsite/static/media/banner.590a438a3c6a7600e8ee.jpg",
+    "static/media/plant.jpg": "/reactlivewebsite/static/media/plant.35f9ff09ab4b88d0b28b.jpg",
+    "static/media/image1.jpg": "/reactlivewebsite/static/media/image1.ec12e9e5f75c0a33710f.jpg",
+    "static/media/play.jpg": "/reactlivewebsite/static/media/play.2992d2414c162434520e.jpg",
+    "static/media/sea.jpg": "/reactlivewebsite/static/media/sea.46ebcb576a0bd487f5f2.jpg",
+    "static/media/image3.jfif": "/reactlivewebsite/static/media/image3.1a61f569186efd3ee217.jfif",
+    "static/media/image2.jfif": "/reactlivewebsite/static/media/image2.695787c781bc5f62895c.jfif",
+    "static/media/logo.svg": "/reactlivewebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactlivewebsite/index.html",
+    "main.b4b32df2.css.map": "/reactlivewebsite/static/css/main.b4b32df2.css.map",
+    "main.c5d4be97.js.map": "/reactlivewebsite/static/js/main.c5d4be97.js.map",
+    "787.d0a8d074.chunk.js.map": "/reactlivewebsite/static/js/787.d0a8d074.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4b32df2.css",
+    "static/js/main.c5d4be97.js"
+  ]
+}
