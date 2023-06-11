@@ -12,6 +12,8 @@ code {
     monospace;
 }
 
+$brand-clr : green;
+
 .nav_bg {
   background-color: rgb(255, 255, 255);
 }
@@ -34,8 +36,8 @@ code {
 }
 
 footer {
-  background-color: black !important;
-  color: #fff !important; 
+  background-color: $brand-clr ;
+  color: #fff ; 
   font-size: 30px;
   position: relative;
   margin-top: 10px;

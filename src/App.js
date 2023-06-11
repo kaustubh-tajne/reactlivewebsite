@@ -7,7 +7,7 @@ import Contact from './Contact';
 import About from './About';
 import Service from './Service';
 import Navbar from './Navbar';
-import { Route, Routes } from 'react-router-dom';
+import { Navigate, Route, Routes } from 'react-router-dom';
 import Footer from './Footer';
 
 const App = () => {
@@ -27,7 +27,8 @@ const App = () => {
         <Route path='/about' element={<About/>} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/service' element={<Service/>} />
-        <Route path='*' element={<Error/>} />
+        {/* <Route path='*' element={<Error/>} /> */}
+        <Route path='*' element={<Navigate to='/' />} />
       </Routes>
       <Footer />
     </>
